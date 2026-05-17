@@ -29,7 +29,7 @@ A API pode ser integrada em diversos ambientes, como:
 * Bots
 * Sistemas corporativos
 * Plataformas de recrutamento
-* 
+
 ---
 
 ## 🎯 Objetivos
